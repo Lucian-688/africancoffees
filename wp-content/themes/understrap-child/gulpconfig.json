@@ -1,6 +1,6 @@
 {
   "browserSyncOptions" : {
-    "proxy": "localhost:8000/understrap-child/",
+    "proxy": "localhost:8000/",
     "notify": false
   },
   "browserSyncWatchFiles" : [
